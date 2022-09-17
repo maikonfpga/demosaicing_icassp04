@@ -1,0 +1,132 @@
+# Loading project demosaic
+# Compile of comm_types_pkg.vhd was successful.
+# Compile of demosaicing.vhd was successful.
+# Compile of demosaicing_convolution.vhd was successful.
+# Compile of demosaicing_ctrl.vhd was successful.
+# Compile of demosaicing_fifo5.vhd was successful.
+# Compile of demosaicing_fifo5_tb.vhd failed with 7 errors.
+# Compile of demosaicing_router.vhd was successful.
+# Compile of demosaicing_shiftreg.vhd was successful.
+# Compile of demosaicing_txt_tb.vhd was successful.
+# Compile of rd_file_axis.vhd was successful.
+# Compile of sim_file_pkg.vhd was successful.
+# Compile of module_testbench.vhd was successful.
+# 12 compiles, 1 failed with 7 errors.
+vsim work.demosaicing_txt_tb
+# vsim work.demosaicing_txt_tb 
+# Start time: 19:26:14 on Jan 10,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.math_real(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.comm_types_pkg(body)
+# Loading work.sim_file_pkg(body)
+# Loading work.demosaicing_txt_tb(behavior)
+# Loading work.rd_file_axis(behaviour)
+# Loading work.demosaicing(behavioral)
+# Loading work.demosaicing_ctrl(behavioral)
+# Loading work.demosaicing_fifo5(behavioral)
+# Loading work.demosaicing_shiftreg(behavioral)
+# Loading work.demosaicing_router(behavioral)
+# Loading work.demosaicing_convolution(behavioral)
+# Loading work.module_testbench(sim)
+restart
+run
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /demosaicing_txt_tb/u_demosaicing/u_demosaicing_ctrl
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /demosaicing_txt_tb/u_demosaicing/u_demosaicing_ctrl
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /demosaicing_txt_tb/u_demosaicing/u_demosaicing_ctrl
+# ** Warning: NUMERIC_STD.">": metavalue detected, returning FALSE
+#    Time: 5 ns  Iteration: 0  Instance: /demosaicing_txt_tb/u_demosaicing/u_demosaicing_router
+# Compile of comm_types_pkg.vhd was successful.
+# Compile of demosaicing.vhd was successful.
+# Compile of demosaicing_convolution.vhd was successful.
+# Compile of demosaicing_ctrl.vhd was successful.
+# Compile of demosaicing_fifo5.vhd was successful.
+# Compile of demosaicing_fifo5_tb.vhd failed with 7 errors.
+# Compile of demosaicing_router.vhd was successful.
+# Compile of demosaicing_shiftreg.vhd was successful.
+# Compile of demosaicing_txt_tb.vhd was successful.
+# Compile of rd_file_axis.vhd was successful.
+# Compile of sim_file_pkg.vhd was successful.
+# Compile of module_testbench.vhd was successful.
+# 12 compiles, 1 failed with 7 errors.
+# Compile of comm_types_pkg.vhd was successful.
+# Compile of demosaicing.vhd was successful.
+# Compile of demosaicing_convolution.vhd was successful.
+# Compile of demosaicing_ctrl.vhd was successful.
+# Compile of demosaicing_fifo5.vhd was successful.
+# Compile of demosaicing_fifo5_tb.vhd failed with 7 errors.
+# Compile of demosaicing_router.vhd was successful.
+# Compile of demosaicing_shiftreg.vhd was successful.
+# Compile of demosaicing_txt_tb.vhd was successful.
+# Compile of rd_file_axis.vhd was successful.
+# Compile of sim_file_pkg.vhd was successful.
+# Compile of module_testbench.vhd was successful.
+# 12 compiles, 1 failed with 7 errors.
+# Compile of comm_types_pkg.vhd was successful.
+# Compile of demosaicing.vhd was successful.
+# Compile of demosaicing_convolution.vhd was successful.
+# Compile of demosaicing_ctrl.vhd was successful.
+# Compile of demosaicing_fifo5.vhd was successful.
+# Compile of demosaicing_fifo5_tb.vhd failed with 7 errors.
+# Compile of demosaicing_router.vhd was successful.
+# Compile of demosaicing_shiftreg.vhd was successful.
+# Compile of demosaicing_txt_tb.vhd was successful.
+# Compile of rd_file_axis.vhd was successful.
+# Compile of sim_file_pkg.vhd was successful.
+# Compile of module_testbench.vhd was successful.
+# 12 compiles, 1 failed with 7 errors.
+restart
+# Loading work.comm_types_pkg(body)
+# Loading work.sim_file_pkg(body)
+# Loading work.demosaicing_txt_tb(behavior)
+# Loading work.rd_file_axis(behaviour)
+# Loading work.demosaicing(behavioral)
+# Loading work.demosaicing_ctrl(behavioral)
+# Loading work.demosaicing_fifo5(behavioral)
+# Loading work.demosaicing_shiftreg(behavioral)
+# Loading work.demosaicing_router(behavioral)
+# Loading work.demosaicing_convolution(behavioral)
+# Loading work.module_testbench(sim)
+run
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /demosaicing_txt_tb/u_demosaicing/u_demosaicing_ctrl
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /demosaicing_txt_tb/u_demosaicing/u_demosaicing_ctrl
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /demosaicing_txt_tb/u_demosaicing/u_demosaicing_ctrl
+# ** Warning: NUMERIC_STD.">": metavalue detected, returning FALSE
+#    Time: 5 ns  Iteration: 0  Instance: /demosaicing_txt_tb/u_demosaicing/u_demosaicing_router
+# Compile of comm_types_pkg.vhd was successful.
+# Compile of demosaicing.vhd was successful.
+# Compile of demosaicing_convolution.vhd was successful.
+# Compile of demosaicing_ctrl.vhd was successful.
+# Compile of demosaicing_fifo5.vhd was successful.
+# Compile of demosaicing_fifo5_tb.vhd failed with 7 errors.
+# Compile of demosaicing_router.vhd was successful.
+# Compile of demosaicing_shiftreg.vhd was successful.
+# Compile of demosaicing_txt_tb.vhd was successful.
+# Compile of rd_file_axis.vhd was successful.
+# Compile of sim_file_pkg.vhd was successful.
+# Compile of module_testbench.vhd was successful.
+# 12 compiles, 1 failed with 7 errors.
+# Compile of comm_types_pkg.vhd was successful.
+# Compile of demosaicing.vhd was successful.
+# Compile of demosaicing_convolution.vhd was successful.
+# Compile of demosaicing_ctrl.vhd was successful.
+# Compile of demosaicing_fifo5.vhd was successful.
+# Compile of demosaicing_fifo5_tb.vhd failed with 7 errors.
+# Compile of demosaicing_router.vhd was successful.
+# Compile of demosaicing_shiftreg.vhd was successful.
+# Compile of demosaicing_txt_tb.vhd was successful.
+# Compile of rd_file_axis.vhd was successful.
+# Compile of sim_file_pkg.vhd was successful.
+# Compile of module_testbench.vhd was successful.
+# 12 compiles, 1 failed with 7 errors.
